@@ -124,7 +124,7 @@ Cloud computing refers to the delivery of on-demand computing resources, such as
 
 ![Alt text](cloud_computing.webp)
 
-Who is using DevOps?
+## Who is using DevOps?
 
 DevOps is widely adopted by companies across various industries to streamline their software development and operations processes, improve collaboration, and enhance overall efficiency. Here are three case studies that showcase the successful implementation of DevOps:
 
