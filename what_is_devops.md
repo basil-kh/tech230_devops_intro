@@ -1,7 +1,7 @@
 ## What is DevOps? 
 
-![Alt text](Devops1-1024x669.jpeg)
 
+![Alt text](imgs/ADO-DevOps-Tool_1200x675@2x.png)
 DevOps is a software development methodology that emphasizes collaboration and communication between development teams and operations teams, with the goal of automating the software delivery process and improving the quality of software products.
 
 DevOps combines practices from software development (Dev) and IT operations (Ops) to enable faster and more efficient delivery of software products. It involves the use of automation tools, such as continuous integration and continuous delivery (CI/CD) pipelines, to streamline the process of testing and deploying code changes.
@@ -11,8 +11,8 @@ DevOps also emphasizes a culture of collaboration and shared responsibility betw
 Overall, DevOps is a methodology that enables organizations to deliver software products more quickly and efficiently, while improving the quality and reliability of those products through increased collaboration and automation.
 ## Benefits of devops for business?
 
-![Alt text](Benefits-of-DevOps.svg)
 
+![Alt text](imgs/Benefits-of-DevOps.svg)
 - Faster time-to-market: By automating the software delivery process, DevOps enables businesses to release new features and updates to their products more quickly.
 
 - Improved quality: DevOps emphasizes continuous testing and feedback, which can lead to higher-quality software products.
@@ -47,8 +47,8 @@ Overall, the DevOps role is multifaceted and requires a broad set of skills and 
 
 ## Who do DevOps Engineers work with?
 
-![Alt text](Role-Struggles-Image-1.png)
 
+![Alt text](imgs/Role-Struggles-Image-1.png)
 
 DevOps Engineers work with a wide range of stakeholders within an organization, including:
 
@@ -122,13 +122,14 @@ Overall, DevOps professionals have a range of career paths available to them, de
 
 Cloud computing refers to the delivery of on-demand computing resources, such as servers, storage, applications, and services, over the internet. Rather than purchasing and maintaining physical hardware and infrastructure, cloud computing allows organizations to access resources as needed, on a pay-per-use basis. This enables organizations to scale up or down quickly and efficiently, and to only pay for the resources they actually use, rather than investing in and maintaining their own hardware and infrastructure. Cloud computing also enables remote access to resources, making it easier for geographically dispersed teams to collaborate and work together.
 
-![Alt text](cloud_computing.webp)
 
+![Alt text](imgs/cloud_computing.webp)
 ## Who is using DevOps?
 
 DevOps is widely adopted by companies across various industries to streamline their software development and operations processes, improve collaboration, and enhance overall efficiency. Here are three case studies that showcase the successful implementation of DevOps:
 
-1. Amazon:![Alt text](Amazon_logo.svg.webp)
+### 1. Amazon:
+![Alt text](imgs/Amazon_logo.svg.webp)
 Amazon is one of the pioneers of DevOps and has been using it to drive innovation and scale their services rapidly. With the adoption of DevOps, Amazon transitioned from a monolithic application architecture to a microservices-based approach. This change allowed them to make multiple deployments per day, compared to their previous deployment frequency of once every few months. By automating their infrastructure provisioning and deployment processes, Amazon has significantly reduced the time it takes to release new features and services while maintaining high availability and performance.
 
 Key takeaways:
@@ -138,7 +139,8 @@ Key takeaways:
 - Accelerated deployment frequency from months to multiple times a day.
   
 ---
-2. Netflix:![Alt text](Netflix-Logo.png)
+### 2. Netflix:
+![Alt text](imgs/Netflix-Logo.png)
 Netflix is another well-known example of successful DevOps implementation. As the company transitioned from DVD rental to streaming services, they needed a more agile and scalable infrastructure to support millions of users worldwide. By embracing DevOps principles and practices, Netflix developed its own suite of tools, like Spinnaker for continuous delivery and Chaos Monkey for resilience testing. These tools have allowed Netflix to achieve rapid deployment of new features and services, better collaboration between development and operations teams, and increased resilience of their systems.
 
 Key takeaways:
@@ -147,7 +149,8 @@ Key takeaways:
 - Achieved rapid deployment of new features and services.
 - Improved collaboration between development and operations teams.
 ---
-3. Target:![Alt text](Target-logo-1.png)
+### 3. Target:
+![Alt text](imgs/Target-logo-1.png)
 Target, a leading retail company, adopted DevOps to modernize its technology infrastructure and streamline its software development processes. By implementing DevOps practices, Target transformed its IT culture by breaking down silos, promoting collaboration, and encouraging experimentation. The company used tools like Jenkins, Chef, and Docker to automate their build, test, and deployment processes, enabling them to release new features and updates faster. Additionally, Target established internal "Dojos" – immersive learning environments – to train and support their teams in adopting DevOps practices and methodologies.
 
 Key takeaways:
@@ -157,3 +160,38 @@ Key takeaways:
 - Established "Dojos" for immersive DevOps training and support.
   
 These case studies demonstrate how adopting DevOps practices can lead to significant improvements in software development processes, team collaboration, and infrastructure management, ultimately resulting in faster deployments, better quality products, and increased resilience.
+
+### Pillars of DevOps
+
+1. Ease of use (in the tools we make)
+
+- other teams won’t use our tools if they are not use friendly. 
+
+- try to be thorough in initial testing, ask for feedback and improve tools 
+
+- team will be using different tools and this will lead to issues and delays with deployment
+
+1. Flexibility ( in the tools we make)
+
+- It can be easy to get locked in to using a specific software, tool or product
+
+- it becomes harder to keep up with industry changes
+
+- everything the company uses should be easily changed or updated as the business needs
+
+3. Robustness ( services provided to client)
+
+- we need as close to 100% uptime of our services as possible.
+
+- As DevOps engineers, this is OUR responsibility.
+
+- updating servers gradually for example. ( or time for update)
+
+4. Cost ( dealings as a company with tech)
+
+- cost is often overlooked. We need to make sure the company is being as efficient as possible in it’s tech dealings. (running server constantly when only 18 hours needed example > 8 core system while can be using 4 cores)
+
+- For example, how powerful of a machine do we need to run a service. Do we need a certain amount of servers running? (can we reduce the amount of servers running at nighttime)
+
+<img src=https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3685c209-6ab6-4cec-bdab-8fc624b4c468/Untitled.png>
+
